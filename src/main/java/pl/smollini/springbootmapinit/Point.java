@@ -1,4 +1,4 @@
-package pl.bykowski.springbootmapinit;
+package pl.smollini.springbootmapinit;
 
 public class Point {
 

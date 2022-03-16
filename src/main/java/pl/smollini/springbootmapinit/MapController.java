@@ -1,4 +1,4 @@
-package pl.bykowski.springbootmapinit;
+package pl.smollini.springbootmapinit;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
